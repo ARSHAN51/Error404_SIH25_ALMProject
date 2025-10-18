@@ -26,13 +26,13 @@ New-Item -Path "reports\model_results.xlsx" -ItemType File -Force
 
 # === Create README.md ===
 $readme = @"
-# 🎧 Deep Learning-based Audio Language Model (ALM)
+ Deep Learning-based Audio Language Model (ALM)
 ### SIH Problem ID: 25242  
 > **Title:** Deep learning based ALM (Audio Language Model), which Listen, Think, and Understand the speech and non-speech Together.
 
 ---
 
-## 🧠 Overview
+ Overview
 Humans live in a multifarious environment of audio signals that include speech and non-speech sounds.  
 The ability to accurately discern, interpret, and integrate these elements — and understand their relationship — forms a key aspect of human cognition.
 
@@ -43,7 +43,7 @@ This project aims to develop an **Audio-Language Model (ALM)** that can:
 
 ---
 
-## 📂 Project Structure
+ Project Structure
 | Folder | Description |
 |--------|--------------|
 | /data | Dataset and audio samples |
@@ -53,9 +53,9 @@ This project aims to develop an **Audio-Language Model (ALM)** that can:
 | /notebooks | Jupyter experiments |
 | /logs | Training logs and checkpoints |
 
----
 
-## 👨‍💻 Team – Error404 (SIH 2025)
+
+Team – Error404 (SIH 2025)
 | Role | Name | Email | Contact | Gender |
 |------|------|--------|----------|--------|
 | **Team Leader** | Shaikh Mohammad Arshan | [sarshan51@gmail.com](mailto:sarshan51@gmail.com) | 8446060277 | Male |
@@ -65,9 +65,9 @@ This project aims to develop an **Audio-Language Model (ALM)** that can:
 | **Member** | Fahad Qureshi | [fahadq749@gmail.com](mailto:fahadq749@gmail.com) | 9619031788 | Male |
 | **Member** | Taleya Sayed | [taleyajnec@gmail.com](mailto:taleyajnec@gmail.com) | 9172460928 | Female |
 
----
 
-## 🧩 Tech Stack
+
+ Tech Stack
 - Python (TensorFlow / PyTorch)
 - Librosa, NumPy, Pandas
 - Flask / FastAPI (for app)
