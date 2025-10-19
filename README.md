@@ -73,18 +73,17 @@ Team – Error404 (SIH 2025)
 - Flask / FastAPI (for app)
 - GitHub & Google Colab for collaboration
 
----
 
-## 🚀 Setup Instructions
+
+ Setup Instructions
 \`\`\`bash
 git clone https://github.com/<your-username>/Error404_SIH25_ALMProject.git
 cd Error404_SIH25_ALMProject
 pip install -r requirements.txt
 \`\`\`
 
----
 
-## 📜 License
+ License
 This project is part of **Smart India Hackathon (SIH) 2025**  
 All rights reserved © Team Error404
 "@
